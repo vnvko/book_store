@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Project",
+    "\\Project\\ShopOnline",
+    "\\Project\\ShopOnline\\ShopOnline",
+    "\\Project\\ShopOnline\\ShopOnline\\Areas",
+    "\\Project\\ShopOnline\\ShopOnline\\Areas\\Admin",
+    "\\Project\\ShopOnline\\ShopOnline\\Areas\\Admin\\Views\\LoginMember",
+    "\\Project\\ShopOnline\\ShopOnline\\Views",
+    "\\Project\\ShopOnline\\ShopOnline\\Views\\Cart",
+    "\\Project\\ShopOnline\\ShopOnline\\Views\\Home",
+    "\\Project\\ShopOnline\\ShopOnline\\Views\\User"
+  ],
+  "SelectedNode": "\\Project\\ShopOnline\\ShopOnline\\Views\\Cart\\Checkout.cshtml",
+  "PreviewInSolutionExplorer": false
+}
